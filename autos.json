@@ -1,0 +1,34 @@
+[
+   {
+      "marca": "Ford",
+      "modelo": "Fiesta",
+      "precio": 150000,
+      "km": 200,
+      "color": "azul",
+      "cuotas": 10,
+      "anio": 2019,
+      "patente": "APL123",
+      "vendido": false
+   },
+   {
+      "marca": "Toyota",
+      "modelo": "Corolla",
+      "precio": 200000,
+      "km": 0,
+      "color": "Blanco",
+      "cuotas": 10,
+      "anio": 2019,
+      "patente": "JJK116",
+      "vendido": true
+   },
+   {
+    "marca": "Ford",
+    "modelo": "Focus",
+    "precio": 500000,
+    "km": 0,
+    "color": "Rojo",
+    "cuotas": 10,
+    "anio": 2055,
+    "patente": "JJK120",
+    "vendido": false
+ }]
